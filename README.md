@@ -2,7 +2,7 @@
 
 Self-taught .NET engineer with 20+ years of experience building new systems, improving existing ones, and keeping them stable over time.
 
-I focus on practical solutions that work in real-world conditions — from system design and performance optimization to debugging and long-term maintainability.
+I focus on practical solutions that work in real-world conditions, from system design and performance optimization to debugging and long-term maintainability.
 
 ## What I work on
 
