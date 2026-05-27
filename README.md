@@ -1,71 +1,33 @@
-# Hi, I'm Pete Sramek 👋
+## Hi, I'm Pete Sramek 👋
 
-**Software Engineer | Performance & Security Enthusiast | DevOps Advocate | Agile Practitioner**
+Self-taught .NET engineer with 20+ years of experience building new systems, improving existing ones, and keeping them stable over time.
 
----
+I focus on practical solutions that work in real-world conditions — from system design and performance optimization to debugging and long-term maintainability.
 
-### 👨‍💻 About Me
+## What I work on
 
-- **20 years of experience** as a software engineer, specializing in:
-  - **Software Architecture**
-  - **Performance Optimization**
-  - **Application & Data Security**
-  - **DevOps**¹
-  - **Agile Methodology** (primarily Scrum)
-- Focused on, but not limited to, the **Microsoft Technology Stack²**
-- Provided services to **30+ companies** from startups to global enterprises:
-  - NCR Corporation, Generali Group, Škoda Auto, Microsoft, DXC Technology, Siemens Healthineers, Raiffeisenbank, and more
+- Designing systems that remain maintainable over time  
+- Improving performance and reliability of existing systems  
+- Debugging complex issues in production environments  
+- Keeping delivery simple and predictable  
 
----
+## Selected work
 
-### 🛠️ Core Technologies
+- **Polyline Algorithm (C#)**  
+  A lightweight .NET library implementing the Google Encoded Polyline Algorithm, designed for performance and simplicity.
 
-**Microsoft Technology Stack²:**  
-C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework Core, Microsoft Orleans, SQL Server, Microsoft Azure, Azure DevOps, GitHub, and more
+## Background
 
----
+Worked with 30+ companies, from startups to global organizations including Microsoft, NCR Corporation, Generali Group, Škoda Auto, Siemens Healthineers, and Raiffeisenbank.
 
-### 🚀 Notable Projects
+## Community
 
-- **Polyline Algorithm for .NET**  
-  [sramekpete/polyline-algorithm-csharp](https://github.com/sramekpete/polyline-algorithm-csharp)  
-  Library for encoding and decoding polylines, actively maintained and improved.
+- Stack Overflow — 165 answers, 3,300+ reputation  
+- Microsoft Community Contributor Award  
+- Open-source contributions and reusable libraries  
 
----
+## Connect
 
-### 🏆 Achievements & Certifications
-
-- **Community Contributor Award 2011**
-- **Microsoft Certified Professional**
-- **30+ Certificates and Licenses**
-- **Stack Overflow Gold Badges:**
-  - Unsung Hero 🥇
-  - Steward 🥇
-
----
-
-### 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sramekpete/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://x.com/sramekpete)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow)](https://stackoverflow.com/users/8442437/sramekpete)
-[![OpenProfile.dev](https://img.shields.io/badge/OpenProfile.dev-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTYgMy43M2MtNi43IDAtMTIuMTUgNS40NS0xMi4xNSAxMi4xNVM5LjMgMjggMTYgMjhjNi43IDAgMTIuMTUtNS40NSAxMi4xNS0xMi4xNVMyMi43IDMuNzMgMTYgMy43M3ptMC0zLjczQzI0Ljg4IDAgMzIgNy4xMiAzMiAxNi4wOCAzMiAyNC45NSA0Mi45NSA0MCAzMiA0MCAyNC45NSA0MCAxNi4wOCA0MCA3LjEyIDM3Ljg4IDAgMjQgMCB6Ii8+PC9zdmc+)](https://openprofile.dev/profile/petesramek)
-
----
-
-### 🌱 Hobbies & Fun Facts
-
-- I love to **travel** and explore new places.
-- Passionate about **cooking** and **BBQ**—I grow my own herbs and chillies for fresh ingredients!
-- Enjoy playing **golf** and **darts**.
-- Paddleboarding on the lake is my go-to for relaxation.
-
----
-
-<sub>  
-¹ DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
-</sub>
-<br />
-<sub>
-² Microsoft Technology Stack: C#, PowerShell, Visual Studio, .NET, ASP.NET Core, .NET MAUI, Entity Framework Core, Microsoft Orleans, SQL Server, Microsoft Azure, Azure DevOps, GitHub, and related tools.
-</sub>
+- LinkedIn  
+- GitHub  
+- Stack Overflow  
