@@ -28,6 +28,7 @@ Worked with 30+ companies, from startups to global organizations including Micro
 
 ## Connect
 
-- LinkedIn  
-- GitHub  
-- Stack Overflow  
+[LinkedIn](https://www.linkedin.com/in/petesramek/)  
+[GitHub](https://github.com/petesramek)  
+[Stack Overflow](https://stackoverflow.com/users/8442437/petesramek)
+
