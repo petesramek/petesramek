@@ -56,6 +56,13 @@ A lightweight serial communication protocol experiment for reliable UART communi
 
 - Repository: https://github.com/petesramek/tiny-link
 
+
+### .NET Production Diagnostics Lab
+
+ASP.NET Core diagnostics lab showing common production-style problems and practical improvements for reliability, performance, and observability.
+
+- [Repository](https://github.com/petesramek)
+
 ---
 
 ## Community
