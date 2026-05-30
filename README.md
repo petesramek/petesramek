@@ -67,8 +67,7 @@ ASP.NET Core diagnostics lab showing common production-style problems and practi
 
 ## Community
 
-- 165+ Stack Overflow answers
-- 3,300+ Stack Overflow reputation
+- 165+ Stack Overflow answers, 3,300+ Stack Overflow reputation, Gold Unsung Hero badge
 - Microsoft Community Contributor Award
 - Open source libraries, experiments, and technical examples
 
