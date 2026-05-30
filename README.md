@@ -47,14 +47,14 @@ Some repositories were created to solve practical problems, some were used for l
 
 A .NET library for encoding and decoding Google-compatible polylines.
 
-- Documentation: https://petesramek.github.io/polyline-algorithm-csharp/
-- NuGet: https://www.nuget.org/profiles/petesramek
+- [Documentation](https://petesramek.github.io/polyline-algorithm-csharp/)
+- [NuGet](https://www.nuget.org/profiles/petesramek)
 
 ### TinyLink
 
 A lightweight serial communication protocol experiment for reliable UART communication between constrained devices.
 
-- Repository: https://github.com/petesramek/tiny-link
+- [Repository](https://github.com/petesramek/tiny-link)
 
 
 ### .NET Production Diagnostics Lab
