@@ -63,6 +63,12 @@ A .NET library for encoding and decoding Google-compatible polylines.
 - [Documentation](https://petesramek.github.io/polyline-algorithm-csharp/)
 - [NuGet](https://www.nuget.org/profiles/petesramek)
 
+### ReqCap
+
+A .NET library for evaluating capabilities against requirements, with fluent rule definitions, structured errors, warnings, and support for custom evaluation logic.
+
+- [Repository](https://github.com/petesramek/reqcap)
+
 ### TinyLink
 
 A lightweight serial communication protocol experiment for reliable UART communication between constrained devices.
