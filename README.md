@@ -43,10 +43,23 @@ This GitHub profile contains a mix of libraries, experiments, examples, and smal
 
 Some repositories were created to solve practical problems, some were used for learning or presentations, and others are experiments built while exploring new ideas.
 
+### Microservices vs Virtual Actors
+
+Architecture comparison case study implementing the same stateful workflow using microservices and Microsoft Orleans virtual actors.
+
+- [Repository](https://github.com/petesramek/microservices-vs-virtual-actors)
+
+### .NET Production Diagnostics Lab
+
+ASP.NET Core diagnostics lab showing common production-style problems and practical improvements for reliability, performance, and observability.
+
+- [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
+
 ### Polyline Algorithm for .NET
 
 A .NET library for encoding and decoding Google-compatible polylines.
 
+- [Repository](https://github.com/petesramek/polyline-algorithm-csharp)
 - [Documentation](https://petesramek.github.io/polyline-algorithm-csharp/)
 - [NuGet](https://www.nuget.org/profiles/petesramek)
 
@@ -56,18 +69,11 @@ A lightweight serial communication protocol experiment for reliable UART communi
 
 - [Repository](https://github.com/petesramek/tiny-link)
 
-
-### .NET Production Diagnostics Lab
-
-ASP.NET Core diagnostics lab showing common production-style problems and practical improvements for reliability, performance, and observability.
-
-- [Repository](https://github.com/petesramek)
-
 ---
 
 ## Community
 
-- 165+ Stack Overflow answers, 3,300+ Stack Overflow reputation, Gold Unsung Hero badge
+- [165+ Stack Overflow answers](https://stackoverflow.com/users/8442437/petesramek?tab=profile), 3,300+ Stack Overflow reputation, Gold Unsung Hero badge
 - Microsoft Community Contributor Award
 - Open source libraries, experiments, and technical examples
 
@@ -76,5 +82,5 @@ ASP.NET Core diagnostics lab showing common production-style problems and practi
 ## Links
 
 - Website: https://petesramek.com
-- Stack Overflow: https://stackoverflow.com/users/8442437/petesramek
+- Stack Overflow: https://stackoverflow.com/users/8442437/petesramek?tab=profile
 - LinkedIn: https://www.linkedin.com/in/petesramek/
