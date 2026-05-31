@@ -73,7 +73,6 @@ A lightweight serial communication protocol experiment for reliable UART communi
 
 ## Community
 
-- [165+ Stack Overflow answers](https://stackoverflow.com/users/8442437/petesramek?tab=profile), 3,300+ Stack Overflow reputation, Gold Unsung Hero badge
 - Microsoft Community Contributor Award
 - Open source libraries, experiments, and technical examples
 
