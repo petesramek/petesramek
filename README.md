@@ -1,6 +1,6 @@
 # Hi, I'm Pete Sramek 👋
 
-I'm a self-taught Senior .NET Engineer with 20+ years of experience building new systems, improving existing ones, and keeping software stable over time.
+I'm a Senior .NET Engineer with 20+ years of experience building new systems, improving existing ones, and keeping software stable over time.
 
 I work mainly with Microsoft technologies across web, cloud, and mobile applications. I care about practical engineering: systems that are understandable, maintainable, observable, and able to survive real production use.
 
