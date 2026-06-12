@@ -42,6 +42,8 @@ These are the practical engineering biases I default to when designing, evaluati
 
 ## Repositories
 
+A selection of hands-on comparisons, diagnostics labs, reusable libraries, and protocol experiments.
+
 ### Microservices vs Virtual Actors
 Hands-on comparison of two approaches to the same distributed workflow, focused on trade-offs in state ownership, concurrency, deployment, observability, and operations.
 - [Repository](https://github.com/petesramek/microservices-vs-virtual-actors)
