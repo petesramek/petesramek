@@ -44,7 +44,7 @@ Hands-on comparison of two approaches to the same distributed workflow, focused 
 - [Repository](https://github.com/petesramek/microservices-vs-virtual-actors)
 
 ### .NET Production Diagnostics Lab
-ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observabili
+ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observability.
 - [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
 
 
@@ -55,7 +55,7 @@ A .NET library for encoding and decoding Google-compatible polylines, designed t
 - [NuGet](https://www.nuget.org/packages/PolylineAlgorithm/)
 
 ### ReqCap
-A .NET library for evaluating capabilities against requirements, focused on explicit rules, structured outcomes, and extensible evaluation logi
+A .NET library for evaluating capabilities against requirements, focused on explicit rules, structured outcomes, and extensible evaluation logic.
 - [Repository](https://github.com/petesramek/reqcap)
 
 ### TinyLink
