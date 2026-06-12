@@ -28,16 +28,13 @@ Most of it sits across backend, cloud, mobile, and distributed systems. The code
 - Application and data security
 - CI/CD and engineering workflows
 
-## Technical priorities
+## Principles
 
-Most of the value is in understanding what is actually happening in the system before deciding what to change.
-
-That usually comes down to things like:
-- making behavior visible before changing it
-- keeping architecture proportional to the problem
-- reducing accidental complexity
-- protecting important invariants
-- improving systems in ways the next person can still understand and maintain
+- clear design over unnecessary complexity
+- production behavior over theory
+- maintainability over cleverness
+- useful automation over ceremony
+- systems teams can understand, operate, and keep evolving
 
 ## Repositories
 
