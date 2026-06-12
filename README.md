@@ -1,4 +1,6 @@
-# Hi, I'm Pete Sramek 👋# Hi, I'm Pete Sramek 👋 in production, and can keep evolving without becoming an operational burden.
+# Hi, I'm Pete Sramek 👋
+
+I build software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
 
 Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding system behavior, keeping architecture proportional, and dealing with practical concerns like performance, diagnostics, and reliability.
 
@@ -79,4 +81,3 @@ A lightweight serial communication protocol experiment for constrained devices, 
 - [Website](https://petesramek.com)
 - [Stack Overflow](https://stackoverflow.com/users/8442437/petesramek?tab=profile)
 - [LinkedIn](https://www.linkedin.com/in/petesramek/)
-
