@@ -19,8 +19,8 @@ These are the technologies, system types, and engineering concerns I tend to foc
 
 **Systems**
 - Backend, mobile, and cloud systems
-- Service-oriented and microservice architectures
-- Distributed and stateful systems, including Microsoft Orleans
+- Monoliths built for MVP delivery
+- Distributed systems, including service-oriented, microservice-based, and stateful systems
 
 **Concerns**
 - System design and product foundations
