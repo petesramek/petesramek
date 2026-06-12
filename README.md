@@ -30,6 +30,8 @@ Most of it sits across backend, cloud, mobile, and distributed systems. The code
 
 ## Principles
 
+These are the practical engineering biases I default to when designing, evaluating, and evolving software.
+
 - clear design over unnecessary complexity
 - production behavior over theory
 - maintainability over cleverness
