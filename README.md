@@ -1,8 +1,8 @@
-# Hi, I'm Pete Sramek 👋
+## Hi, I'm Pete Sramek 👋
 
 I focus on building software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
 
-Most of it sits across backend, cloud, mobile, and distributed systems. The code in this profile is a mix of open-source libraries, architectural comparisons, and labs focused on practical engineering, understanding what is actually happening in a system, keeping architecture proportional, and dealing with things like performance, diagnostics, and reliability.
+My background sits mostly across backend, cloud, mobile, and distributed systems. I tend to focus on understanding system behavior, keeping architecture proportional, and dealing with practical concerns like performance, diagnostics, and reliability.
 
 ## Technical scope
 
