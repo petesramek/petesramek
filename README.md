@@ -6,6 +6,8 @@ Most of it sits across backend, cloud, mobile, and distributed systems. The code
 
 ## Technical scope
 
+These are the technologies, system types, and engineering concerns I tend to focus on most often.
+
 **Frameworks**
 - .NET
 - ASP.NET Core
