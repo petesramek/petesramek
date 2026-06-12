@@ -4,7 +4,7 @@ I focus on building software that stays understandable, behaves well in producti
 
 Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding how systems behave, keeping architecture proportional, and working through practical concerns like performance, diagnostics, and reliability.
 
-These are the technologies, system types, engineering concerns, and principles I tend to focus on most often.
+These are the technologies, system types, engineering concerns, and principles I am in touch the most often.
 
 **Frameworks**
 - .NET
