@@ -21,8 +21,10 @@ Most of it sits across backend, cloud, mobile, and distributed systems. The code
 - Distributed and stateful systems, including Microsoft Orleans
 
 **Concerns**
-- Performance, reliability, and observability
-- System modernization and technical debt
+- System design and product foundations
+- System behavior, data consistency, and correctness
+- Performance, reliability, observability, and operability
+- System modernization, migration, and technical debt
 - Application and data security
 - CI/CD and engineering workflows
 
