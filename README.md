@@ -1,12 +1,10 @@
-## Hi, I'm Pete Sramek 👋
+# Hi, I'm Pete Sramek 👋
 
 I focus on building software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
 
-My background sits mostly across backend, cloud, mobile, and distributed systems. I tend to focus on understanding system behavior, keeping architecture proportional, and dealing with practical concerns like performance, diagnostics, and reliability.
+Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding how systems behave, keeping architecture proportional, and working through practical concerns like performance, diagnostics, and reliability.
 
-## Technical scope
-
-These are the technologies, system types, and engineering concerns I tend to focus on most often.
+These are the technologies, system types, engineering concerns, and principles I tend to focus on most often.
 
 **Frameworks**
 - .NET
@@ -30,10 +28,7 @@ These are the technologies, system types, and engineering concerns I tend to foc
 - Application and data security
 - CI/CD and engineering workflows
 
-## Principles
-
-These are the practical engineering biases I default to when designing, evaluating, and evolving software.
-
+**Principles**
 - clear design over unnecessary complexity
 - production behavior over theory
 - maintainability over cleverness
@@ -49,21 +44,22 @@ Hands-on comparison of two approaches to the same distributed workflow, focused 
 - [Repository](https://github.com/petesramek/microservices-vs-virtual-actors)
 
 ### .NET Production Diagnostics Lab
-ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observability.
+ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observabili
 - [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
 
+
 ### Polyline Algorithm for .NET
-A .NET library for encoding and decoding Google-compatible polylines.
+A .NET library for encoding and decoding Google-compatible polylines, designed to stay small, predictable, and easy to integrate.
 - [Repository](https://github.com/petesramek/polyline-algorithm-csharp)
 - [Docs](https://petesramek.github.io/polyline-algorithm-csharp/)
 - [NuGet](https://www.nuget.org/packages/PolylineAlgorithm/)
 
 ### ReqCap
-A .NET library for evaluating capabilities against requirements, with fluent rule definitions, structured errors, warnings, and support for custom evaluation logic.
+A .NET library for evaluating capabilities against requirements, focused on explicit rules, structured outcomes, and extensible evaluation logi
 - [Repository](https://github.com/petesramek/reqcap)
 
 ### TinyLink
-A lightweight serial communication protocol experiment for reliable UART communication between constrained devices.
+A lightweight serial communication protocol experiment for constrained devices, built around reliable UART communication and practical robustness under tight limits.
 - [Repository](https://github.com/petesramek/tiny-link)
 
 ## Links
