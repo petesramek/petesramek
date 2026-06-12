@@ -1,10 +1,10 @@
 # Hi, I'm Pete Sramek 👋
 
-I focus on building software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
+I build software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
 
-Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding how systems behave, keeping architecture proportional, and working through practical concerns like performance, diagnostics, and reliability.
+Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding system behavior, keeping architecture proportional, and dealing with practical concerns like performance, diagnostics, and reliability.
 
-These are the technologies, system types, engineering concerns, and principles I am in touch the most often.
+This is the technical territory I tend to operate in most often, along with the principles that shape how I approach it.
 
 **Frameworks**
 - .NET
