@@ -4,7 +4,7 @@ I focus on building software that stays understandable, behaves well in producti
 
 Most of it sits across backend, cloud, mobile, and distributed systems. The code in this profile is a mix of open-source libraries, architectural comparisons, and labs focused on practical engineering, understanding what is actually happening in a system, keeping architecture proportional, and dealing with things like performance, diagnostics, and reliability.
 
-## Stack
+## Technical scope
 
 **Frameworks**
 - .NET
@@ -16,11 +16,11 @@ Most of it sits across backend, cloud, mobile, and distributed systems. The code
 - Amazon Web Services (AWS)
 
 **Systems**
-- Backend, mobile, and cloud applications
+- Backend, mobile, and cloud systems
 - Service-oriented and microservice architectures
 - Distributed and stateful systems, including Microsoft Orleans
 
-**Technical focus**
+**Concerns**
 - Performance, reliability, and observability
 - System modernization and technical debt
 - Application and data security
