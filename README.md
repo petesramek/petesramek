@@ -45,21 +45,21 @@ Hands-on comparison of two approaches to the same distributed workflow, focused 
 
 ### .NET Production Diagnostics Lab
 ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observability.
-- [Repository](https://github.com/petesramek)
+- [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
 
 ### Polyline Algorithm for .NET
 A .NET library for encoding and decoding Google-compatible polylines.
-- [Repository](https://github.com/petesramek)
-- https://petesramek.github.io/polyline-algorithm-csharp/
-- https://www.nuget.org/packages/PolylineAlgorithm/
+- [Repository](https://github.com/petesramek/polyline-algorithm-csharp)
+- [Docs](https://petesramek.github.io/polyline-algorithm-csharp/)
+- [NuGet](https://www.nuget.org/packages/PolylineAlgorithm/)
 
 ### ReqCap
 A .NET library for evaluating capabilities against requirements, with fluent rule definitions, structured errors, warnings, and support for custom evaluation logic.
-- [Repository](https://github.com/petesramek)
+- [Repository](https://github.com/petesramek/reqcap)
 
 ### TinyLink
 A lightweight serial communication protocol experiment for reliable UART communication between constrained devices.
-- [Repository](https://github.com/petesramek)
+- [Repository](https://github.com/petesramek/tiny-link)
 
 ## Links
 
