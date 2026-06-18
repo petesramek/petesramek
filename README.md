@@ -11,6 +11,7 @@ This is the technical territory I tend to operate in most often, along with the 
 - .NET
 - ASP.NET Core
 - .NET MAUI
+- Entity Framework Core
 
 **Cloud platforms**
 
