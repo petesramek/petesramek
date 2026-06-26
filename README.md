@@ -29,7 +29,7 @@ This is the technical territory I tend to operate in most often, along with the 
 - System design and product foundations
 - System behavior, data consistency, and correctness
 - Performance, reliability, observability, and operability
-- System modernization, migration, and technical debt
+- System modernization, migration, and technical debt reduction
 - Application and data security
 - CI/CD and engineering workflows
 
