@@ -30,7 +30,7 @@ This is the technical territory I tend to operate in most often, along with the 
 - System behavior, data consistency, and correctness
 - Performance, reliability, observability, and operability
 - System modernization, migration, and technical debt reduction
-- Application and data security
+- Application security, data privacy and protection
 - CI/CD and engineering workflows
 
 **Principles**
