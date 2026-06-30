@@ -2,7 +2,7 @@
 
 I build software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
 
-Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding system behavior, keeping architecture proportional, and dealing with practical concerns like performance, diagnostics, and reliability.
+Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding system behavior, keeping technical decisions proportional, and dealing with practical concerns like performance, diagnostics, reliability, and operational cost.
 
 This is the technical territory I tend to operate in most often, along with the principles that shape how I approach it.
 
@@ -26,7 +26,7 @@ This is the technical territory I tend to operate in most often, along with the 
 
 **Concerns**
 
-- System design and product foundations
+- Technical design and product foundations
 - System behavior, data consistency, and correctness
 - Performance, reliability, observability, and operability
 - System modernization, migration, and technical debt reduction
@@ -39,7 +39,7 @@ This is the technical territory I tend to operate in most often, along with the 
 - production behavior over theory
 - maintainability over cleverness
 - useful automation over ceremony
-- systems teams can understand, operate, and keep evolving
+- systems teams can understand, operate, and evolve safely
 
 ## Repositories
 
