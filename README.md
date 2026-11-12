@@ -1,45 +1,50 @@
 # Hi, I'm Pete Sramek 👋
 
-I build software that stays understandable, behaves well in production, and can keep evolving without becoming an operational burden.
+I am an independent, hands-on software engineering and cloud consultant with 20 years of experience helping organizations build, stabilize, and modernize software—from early-stage products to enterprise systems.
 
-Most of my background is in backend, cloud, mobile, and distributed systems. I invest in understanding system behavior, keeping technical decisions proportional, and dealing with practical concerns like performance, diagnostics, reliability, and operational cost.
+My work is guided by **Minimum Necessary Complexity**: strip away the noise, keep technical decisions proportional to the real need, and build software that stays understandable, behaves predictably in production, and can keep evolving without becoming an operational burden.
 
-This is the technical territory I tend to operate in most often, along with the principles that shape how I approach it.
+Most of my background is in backend, cloud, mobile, and distributed systems within the Microsoft ecosystem. More about my consulting work, case studies, and writing: [petesramek.com](https://petesramek.com) · [LinkedIn](https://linkedin.com)
 
-**Frameworks**
+### Frameworks
 
 - .NET
 - ASP.NET Core
 - .NET MAUI
 - Entity Framework Core
+- Microsoft Orleans
+- .NET Aspire
 
-**Cloud platforms**
+### Cloud platforms
 
-- Azure
+- Microsoft Azure
 - Amazon Web Services (AWS)
 
-**Systems**
+### Systems
 
 - Backend, mobile, and cloud systems
-- Monoliths built for MVP delivery
-- Distributed systems, including service-oriented, microservice-based, and stateful systems
+- Monoliths built for MVP delivery and clean evolution
+- Distributed systems, including service-oriented, microservice-based, and stateful actor systems
+- Multi-tenant SaaS platforms
+- Coexisting legacy and modern systems during staged transitions
 
-**Concerns**
+### Concerns
 
-- Technical design and product foundations
+- Technical design and durable product foundations
 - System behavior, data consistency, and correctness
-- Performance, reliability, observability, and operability
-- System modernization, migration, and technical debt reduction
-- Application security, data privacy and protection
-- CI/CD and engineering workflows
+- Root-cause diagnostics, performance, reliability, and observability
+- Staged system modernization, migration, and technical debt reduction
+- Operational cost and infrastructure efficiency
+- Application security, tenant isolation, and data protection
+- CI/CD, automated testing, and practical engineering workflows
 
-**Principles**
+### Principles
 
-- clear design over unnecessary complexity
-- production behavior over theory
-- maintainability over cleverness
-- useful automation over ceremony
-- systems teams can understand, operate, and evolve safely
+- Clear design over unnecessary complexity
+- Production behavior over theory
+- Maintainability over cleverness
+- Useful automation over ceremony
+- Systems teams can understand, operate, and evolve safely
 
 ## Repositories
 
