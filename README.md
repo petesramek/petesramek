@@ -49,7 +49,7 @@ More about my consulting work at [petesramek.com](https://petesramek.com) or you
 
 ## Repositories
 
-A selection of hands-on comparisons, diagnostics labs, reusable libraries, and protocol experiments.
+Some of my engineering work and technical experiments.
 
 ### Microservices vs Virtual Actors
 
