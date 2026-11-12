@@ -4,9 +4,7 @@ I am an independent, hands-on software engineering and cloud consultant with 20 
 
 My practice is built on **Minimum Necessary Complexity**, keeping technical decisions proportional to the real need to deliver high customer value, reliable operations, and justified costs while establishing a solid foundation for future evolution.
 
-I do advocate for **Minimum Necessary Complexity** to keep technical decisions proportional to the real need, and build software that stays understandable, behaves predictably in production, and can keep evolving without becoming an operational burden.
-
-Most of my background is in backend, cloud, mobile, and distributed systems within the Microsoft ecosystem. You can read more about my consulting work at [petesramek.com](https://petesramek.com) or connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
+More about my consulting work at [petesramek.com](https://petesramek.com) or you can connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
 
 ### Frameworks
 
@@ -24,11 +22,12 @@ Most of my background is in backend, cloud, mobile, and distributed systems with
 
 ### Systems
 
-- Backend, mobile, and cloud systems
-- Monoliths built for MVP delivery and clean evolution
-- Distributed systems, including service-oriented, microservice-based, and stateful actor systems
-- Multi-tenant SaaS platforms
-- Coexisting legacy and modern systems during staged transitions
+- Backend, mobile, and cloud applications
+- Monoliths built for MVP delivery and future evolution
+- Distributed, service-oriented, microservice, and stateful actor systems
+- Multi-tenant SaaS platforms with strict data and identity boundaries
+- Legacy systems undergoing stabilization and modernization
+
 
 ### Concerns
 
