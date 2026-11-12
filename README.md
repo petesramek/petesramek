@@ -1,8 +1,10 @@
 # Hi, I'm Pete Sramek 👋
 
-I am an independent, hands-on software engineering and cloud consultant with 20 years of experience helping organizations build, stabilize, and modernize software, from early-stage products to enterprise systems.
+I am an independent, hands-on software engineering and cloud consultant with 20 years of experience across product engineering, software delivery, and production operations, primarily utilizing the Microsoft ecosystem.
 
-I do advocate for **Minimum Necessary Complexity** tokeep technical decisions proportional to the real need, and build software that stays understandable, behaves predictably in production, and can keep evolving without becoming an operational burden.
+My practice is built on **Minimum Necessary Complexity**, keeping technical decisions proportional to the real need to deliver high customer value, reliable operations, and justified costs while establishing a solid foundation for future evolution.
+
+I do advocate for **Minimum Necessary Complexity** to keep technical decisions proportional to the real need, and build software that stays understandable, behaves predictably in production, and can keep evolving without becoming an operational burden.
 
 Most of my background is in backend, cloud, mobile, and distributed systems within the Microsoft ecosystem. You can read more about my consulting work at [petesramek.com](https://petesramek.com) or connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
 
