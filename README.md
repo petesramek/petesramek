@@ -59,13 +59,13 @@ A side-by-side implementation of the same distributed workflow using microservic
 
 ### .NET Production Diagnostics Lab
 
-A collection of ASP.NET Core failure scenarios demonstrating how data access, dependency failures, memory usage, network resources, logging, and deployment behavior affect performance and reliability in production. Each scenario includes the problem, investigation, and practical mitigation.
+A hands-on ASP.NET Core lab where production-style problems can be triggered, observed, and compared with safer implementations. The scenarios cover data access, reliability, runtime pressure, memory, networking, observability, configuration, and deployment behaviour.
 
 - [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
 
 ### Practical .NET Collections
 
-A benchmark-driven guide to selecting .NET collections according to access patterns, mutation, ordering, concurrency, memory usage, and measured performance rather than habit or assumption.
+A practical decision guide for choosing .NET collections from thread-safety needs, data lifetime, access patterns, ordering, and mutability. Decision flows, reference tables, examples, common mistakes, and benchmarks show where each option fits and where it does not.
 
 - [Repository](https://github.com/petesramek/practical-dotnet-collections)
 
