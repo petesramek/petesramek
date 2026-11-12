@@ -4,7 +4,7 @@ I am an independent, hands-on software engineering and cloud consultant with 20 
 
 I do advocate for **Minimum Necessary Complexity** tokeep technical decisions proportional to the real need, and build software that stays understandable, behaves predictably in production, and can keep evolving without becoming an operational burden.
 
-Most of my background is in backend, cloud, mobile, and distributed systems within the Microsoft ecosystem. You can read more about my consulting work at [petesramek.com](https://petesramek.com) or connect on [LinkedIn](https://linkedin.com).
+Most of my background is in backend, cloud, mobile, and distributed systems within the Microsoft ecosystem. You can read more about my consulting work at [petesramek.com](https://petesramek.com) or connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
 
 ### Frameworks
 
@@ -85,5 +85,5 @@ A lightweight, experimental serial communication protocol for constrained device
 ## Links
 
 - [Website](https://petesramek.com)
-- [Stack Overflow](https://stackoverflow.com/users/8442437/petesramek?tab=profile)
 - [LinkedIn](https://www.linkedin.com/in/petesramek/)
+- [Stack Overflow](https://stackoverflow.com/users/8442437/petesramek?tab=profile)
