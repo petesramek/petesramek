@@ -47,19 +47,25 @@ A selection of hands-on comparisons, diagnostics labs, reusable libraries, and p
 
 ### Microservices vs Virtual Actors
 
-Hands-on comparison of two approaches to the same distributed workflow, focused on trade-offs in state ownership, concurrency, deployment, observability, and operations.
+A side-by-side implementation of the same distributed workflow using microservices and Microsoft Orleans virtual actors, making trade-offs in state ownership, concurrency, failure handling, observability, deployment, and system evolution directly comparable through a unified UI and observability tooling.
 
 - [Repository](https://github.com/petesramek/microservices-vs-virtual-actors)
 
 ### .NET Production Diagnostics Lab
 
-ASP.NET Core diagnostics lab showing production-style problems and practical improvements around reliability, performance, and observability.
+A collection of ASP.NET Core failure scenarios demonstrating how data access, dependency failures, memory usage, network resources, logging, and deployment behavior affect performance and reliability in production. Each scenario includes the problem, investigation, and practical mitigation.
 
 - [Repository](https://github.com/petesramek/dotnet-production-diagnostics-lab)
 
+### Practical .NET Collections
+
+A benchmark-driven guide to selecting .NET collections according to access patterns, mutation, ordering, concurrency, memory usage, and measured performance rather than habit or assumption.
+
+- [Repository](https://github.com/petesramek/practical-dotnet-collections)
+
 ### Polyline Algorithm for .NET
 
-A .NET library for encoding and decoding Google-compatible polylines, designed to stay small, predictable, and easy to integrate.
+A lightweight .NET Standard 2.1 library for encoding and decoding Google-compatible polylines, providing extensible, type-safe abstractions for custom coordinate and polyline types alongside strict input validation, configurable precision, and stateless, thread-safe execution.
 
 - [Repository](https://github.com/petesramek/polyline-algorithm-csharp)
 - [Docs](https://petesramek.github.io/polyline-algorithm-csharp/)
@@ -67,7 +73,7 @@ A .NET library for encoding and decoding Google-compatible polylines, designed t
 
 ### TinyLink
 
-A lightweight serial communication protocol experiment for constrained devices, built around reliable UART communication and practical robustness under tight limits.
+A lightweight, experimental serial communication protocol for constrained devices, exploring reliable UART communication, explicit wire encoding, message integrity, and practical behavior under limited processing and memory resources.
 
 - [Repository](https://github.com/petesramek/tiny-link)
 
