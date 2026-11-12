@@ -26,7 +26,7 @@ More about my consulting work at [petesramek.com](https://petesramek.com) or you
 - Monoliths built for MVP delivery and future evolution
 - Distributed, service-oriented, microservice, and stateful actor systems
 - Multi-tenant SaaS platforms with strict data and identity boundaries
-- Legacy systems undergoing stabilization and modernization
+- Legacy systems requiring stabilization and preparation for modernization
 
 
 ### Concerns
