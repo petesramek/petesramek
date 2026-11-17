@@ -1,10 +1,11 @@
 # Hi, I'm Pete Sramek 👋
 
-I am an independent, hands-on software engineering and cloud consultant with 20 years of experience across product engineering, software delivery, and production operations, primarily utilizing the Microsoft ecosystem.
+I am an independent, hands-on software engineering and cloud consultant with 20 years of experience across product engineering, software delivery, and production operations, working primarily within the Microsoft ecosystem.
 
-My practice is built on **Minimum Necessary Complexity**, keeping technical decisions proportional to the real need to deliver high customer value, reliable operations, and justified costs while establishing a solid foundation for future evolution.
+My work is guided by Minimum Necessary Complexity. Technical decisions should remain proportional to the actual need, deliver meaningful customer value, support reliable operations, and justify the cost and responsibility they introduce.
 
-More about my consulting work at [petesramek.com](https://petesramek.com) or you can connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
+
+Learn more about my consulting work  at [petesramek.com](https://petesramek.com) or you can connect on [LinkedIn](https://www.linkedin.com/in/petesramek/).
 
 ### Frameworks
 
@@ -35,9 +36,9 @@ More about my consulting work at [petesramek.com](https://petesramek.com) or you
 - System behavior, data consistency, and correctness
 - Root-cause diagnostics, performance, reliability, and observability
 - Staged system modernization, migration, and technical debt reduction
-- Operational cost and infrastructure efficiency
+- Engineering efficiency and cloud cost optimization
 - Application security, tenant isolation, and data protection
-- CI/CD, automated testing, and practical engineering workflows
+- CI/CD, automated testing, and pragmatic engineering workflows
 
 ### Principles
 
